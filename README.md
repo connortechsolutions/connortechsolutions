@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### ✨ [Connor Technology Solutions](https://connortechsolutions.com) ✨
+ I hear and I forget.<br />
+ I see and I remember.<br />
+ I do and I understand!<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bbsp;&nbsp;  --Confucious<br />
+<br />
+![Connor Technology Solutions](https://connortechsolutions.com/img/ctsLogo.png)
 <!--
 **connortechsolutions/connortechsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
